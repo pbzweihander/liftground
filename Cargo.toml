@@ -1,0 +1,8 @@
+[package]
+name = "liftground"
+version = "0.1.0"
+authors = ["pbzweihander <sd852456@naver.com>"]
+repository = "https://github.com/pbzweihander/liftground"
+
+[dependencies]
+ggez = "0.4"
